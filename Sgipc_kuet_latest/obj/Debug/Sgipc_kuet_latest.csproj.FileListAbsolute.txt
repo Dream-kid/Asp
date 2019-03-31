@@ -1,0 +1,38 @@
+c:\users\imsourav\documents\visual studio 2012\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\Sgipc_kuet_latest.dll
+c:\users\imsourav\documents\visual studio 2012\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\Sgipc_kuet_latest.pdb
+c:\users\imsourav\documents\visual studio 2012\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.dll
+c:\users\imsourav\documents\visual studio 2012\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.pdb
+C:\Users\imSourav\documents\visual studio 2012\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.csprojResolveAssemblyReference.cache
+C:\Users\imSourav\documents\visual studio 2012\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\FireSharp.dll
+C:\Users\imSourav\documents\visual studio 2012\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\FireSharp.Serialization.JsonNet.dll
+C:\Users\imSourav\documents\visual studio 2012\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\Newtonsoft.Json.dll
+C:\Users\imSourav\documents\visual studio 2012\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\RestSharp.dll
+C:\Users\imSourav\documents\visual studio 2012\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\Newtonsoft.Json.xml
+C:\Users\imSourav\documents\visual studio 2012\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\RestSharp.xml
+C:\Users\imSourav\Desktop\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\Sgipc_kuet_latest.dll.config
+C:\Users\imSourav\Desktop\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\Sgipc_kuet_latest.dll
+C:\Users\imSourav\Desktop\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\Sgipc_kuet_latest.pdb
+C:\Users\imSourav\Desktop\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\FireSharp.dll
+C:\Users\imSourav\Desktop\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\FireSharp.Serialization.JsonNet.dll
+C:\Users\imSourav\Desktop\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\Newtonsoft.Json.dll
+C:\Users\imSourav\Desktop\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\RestSharp.dll
+C:\Users\imSourav\Desktop\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\Newtonsoft.Json.xml
+C:\Users\imSourav\Desktop\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\RestSharp.xml
+C:\Users\imSourav\Desktop\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.csprojAssemblyReference.cache
+C:\Users\imSourav\Desktop\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.csproj.CoreCompileInputs.cache
+C:\Users\imSourav\Desktop\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.csproj.CopyComplete
+C:\Users\imSourav\Desktop\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.dll
+C:\Users\imSourav\Desktop\Projects\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.pdb
+C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\Sgipc_kuet_latest.dll.config
+C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\Sgipc_kuet_latest.dll
+C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\Sgipc_kuet_latest.pdb
+C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\MySql.Data.DLL
+C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\Newtonsoft.Json.dll
+C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\RestSharp.dll
+C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\Newtonsoft.Json.xml
+C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\RestSharp.xml
+C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.csprojAssemblyReference.cache
+C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.csproj.CoreCompileInputs.cache
+C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.csproj.CopyComplete
+C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.dll
+C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.pdb
