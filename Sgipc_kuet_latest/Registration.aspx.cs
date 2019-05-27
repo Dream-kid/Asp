@@ -15,14 +15,29 @@ namespace Sgipc_kuet_latest
        
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (!IsPostBack)
+            {
+               
+                if (Request.Cookies["email"] != null && Request.Cookies["password"] != null)
+                {
+                    if (Session["email"] == null)
+                    {
+                        Response.Cookies["email"].Expires = DateTime.Now.AddMinutes(-1);
+                        Response.Cookies["password"].Expires = DateTime.Now.AddMinutes(-1);
+                        Response.Redirect("Homepage.aspx");
+                    }
 
+                    Response.Redirect("profile.aspx?test=" + Session["email"]);
+                }
+
+            }
         }
         protected void Button1_Click(object sender, EventArgs e)
         {
             try
             {
-                string MyConnection2 = "datasource = localhost; username=root ; password=; database = testing_mysql";
-                string Query = "insert into testing_mysql.sgipc_latest(username,password,email,university) values('" + TextBoxus.Text + "','" + TextBoxpass.Text + "','" + TextBoxemail.Text + "','" + DropDownListcountry.Text + "');";
+                string MyConnection2 = "datasource = localhost; username=root ; password=; database = sgipc";
+                string Query = "insert into sgipc.person(user_name,password,email,university,image) values('" + TextBoxus.Text + "','" + TextBoxpass.Text + "','" + TextBoxemail.Text + "','" + DropDownListcountry.Text + "','44.png');";
                 MySqlConnection MyConn2 = new MySqlConnection(MyConnection2);
                 MySqlCommand MyCommand2 = new MySqlCommand(Query, MyConn2);
                 MySqlDataReader MyReader2;
@@ -36,7 +51,7 @@ namespace Sgipc_kuet_latest
             }
             catch (Exception ex)
             {
-                Label2.Text = "something wrong";
+                Label2.Text = "*something wrong";
             }
 
         }
@@ -50,5 +65,7 @@ namespace Sgipc_kuet_latest
         {
 
         }
+
+       
     }
 }

@@ -14,7 +14,7 @@ namespace Sgipc_kuet_latest
             Session.Clear();
             Response.Cookies["email"].Expires = DateTime.Now.AddMinutes(-1);
             Response.Cookies["password"].Expires = DateTime.Now.AddMinutes(-1);
-            Response.Redirect("login.aspx");
+            Response.Redirect("Homepage.aspx");
 
         }
     }

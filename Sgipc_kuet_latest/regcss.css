@@ -10,7 +10,7 @@
 #divleft {
     background-color: aliceblue;
     font-family: Verdana;
-    height: 230px;
+    height: 780px;
     padding-top: 2em;
     width: 40%;
     float: left;
@@ -20,7 +20,7 @@
 #divCenter {
     background-color: dodgerblue;
     font-family: Verdana;
-    height: 290px;
+    height:780px;
     padding-top: 2em;
     width: 40%;
     border-radius: 80px;
