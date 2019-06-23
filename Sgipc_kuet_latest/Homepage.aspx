@@ -121,6 +121,14 @@
     <asp:Button ID="Button4"  cssclass="mybtn" runat="server" Text="About" OnClick="Button2_Click1"  />
 &nbsp;&nbsp;&nbsp;
     <asp:Button ID="Button5" runat="server" cssclass="mybtn" Text="Contact" OnClick="Button3_Click1" />
+    &nbsp;&nbsp;&nbsp;
+        <asp:Button ID="Button9" runat="server" cssclass="mybtn" Text="Profile" OnClick="Button9_Click1" />
+           &nbsp;&nbsp;&nbsp;
+
+    <asp:Button ID="Button8" runat="server" cssclass="mybtn" Text="Blog" OnClick="Button8_Click1" />
+       &nbsp;&nbsp;&nbsp;
+
+    <asp:Button ID="Button81" runat="server" cssclass="mybtn" Text="Members" OnClick="Button81_Click1" />
 </div>
          <br />
          <br />

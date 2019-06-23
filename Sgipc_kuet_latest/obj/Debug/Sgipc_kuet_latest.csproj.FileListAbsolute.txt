@@ -36,3 +36,4 @@ C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sg
 C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.csproj.CopyComplete
 C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.dll
 C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\obj\Debug\Sgipc_kuet_latest.pdb
+C:\Users\imSourav\Documents\Visual Studio 2017\Backup Files\Sgipc_kuet_latest\Sgipc_kuet_latest\bin\AjaxControlToolkit.dll

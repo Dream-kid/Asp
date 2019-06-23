@@ -1,5 +1,5 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Registration.aspx.cs" Inherits="Sgipc_kuet_latest.Registration" %>
-
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxToolkit" %>
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -13,7 +13,16 @@
       <link href="Style.css" rel="stylesheet" />
     <style type="text/css">
         
-       
+       #divCenter {
+    background-color: dodgerblue;
+    font-family: Verdana;
+    height:300px;
+    padding-top: 2em;
+    width: 40%;
+    border-radius: 80px;
+    float: left;
+}
+
        
         .mybtn1
 {
@@ -130,26 +139,33 @@ background-color: white;
 
              
                     &nbsp;<br />
-       &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;   <asp:TextBox ID="TextBoxus" runat="server"  CssClass="from-control" placeHolder="Enter User Name:" Width="180px" OnTextChanged="TextBoxus_TextChanged"></asp:TextBox>
+       &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   <asp:TextBox ID="TextBoxus" runat="server"  CssClass="from-control" placeHolder="Enter User Name:" Width="180px" OnTextChanged="TextBoxus_TextChanged"></asp:TextBox>
                     &nbsp;<asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="TextBoxus" ErrorMessage="enter user name" ForeColor="Red"></asp:RequiredFieldValidator>
                           <br />
                           </div>
         <br />
               <div>
-                    <asp:TextBox ID="TextBoxemail" runat="server" CssClass="from-control" placeHolder="Enter Emailid:" Width="180px"></asp:TextBox>
+                    &nbsp;<asp:TextBox ID="TextBoxemail" runat="server" CssClass="from-control" placeHolder="Enter Emailid:" Width="180px"></asp:TextBox>
                     &nbsp;<asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="TextBoxemail" ErrorMessage="enter email" ForeColor="Red"></asp:RequiredFieldValidator>
                     <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <asp:RegularExpressionValidator ID="regexEmailValid" runat="server" ValidationExpression="\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" ControlToValidate="TextBoxemail" ErrorMessage="invalid email format" ForeColor="Red"></asp:RegularExpressionValidator>
                     <br />
 &nbsp;&nbsp;&nbsp; &nbsp;
-                    <asp:TextBox ID="TextBoxpass" runat="server"  CssClass="from-control" placeHolder="Enter Password:" TextMode="Password" Width="180px" OnTextChanged="TextBoxpass_TextChanged"></asp:TextBox>
+                  <asp:ScriptManager ID="asm" runat="server" />
+                    &nbsp;<asp:TextBox ID="TextBoxpass" runat="server"  CssClass="from-control" placeHolder="Enter Password:" TextMode="Password" Width="180px" OnTextChanged="TextBoxpass_TextChanged"></asp:TextBox>
+
                     &nbsp;<asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ControlToValidate="TextBoxpass" ErrorMessage="enter password" ForeColor="Red"></asp:RequiredFieldValidator>
-                    <br />
+                <ajaxToolkit:PasswordStrength ID="ps1" runat="server" 
+ TargetControlID="TextBoxpass" RequiresUpperAndLowerCaseCharacters="true" 
+ MinimumNumericCharacters="1" MinimumSymbolCharacters="1" 
+ PreferredPasswordLength="8" DisplayPosition="RightSide" 
+ StrengthIndicatorType="Text" />
+                  <br />
                </div>
         <br />
           <div>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<asp:TextBox ID="TextBoxrpass" runat="server"  CssClass="from-control" placeHolder="Enter Confirm Password:" TextMode="Password" Width="180px"></asp:TextBox>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<asp:TextBox ID="TextBoxrpass" runat="server"  CssClass="from-control" placeHolder="Enter Confirm Password:" TextMode="Password" Width="180px"></asp:TextBox>
                 
                     &nbsp;<asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ControlToValidate="TextBoxrpass" ErrorMessage="enter confirm password" ForeColor="Red"></asp:RequiredFieldValidator>
                     <br />
@@ -157,7 +173,7 @@ background-color: white;
                     <asp:CompareValidator ID="CompareValidator1" runat="server" ControlToCompare="TextBoxpass" ControlToValidate="TextBoxrpass" ErrorMessage="password do not match" ForeColor="Red"></asp:CompareValidator>
          </div>
                  <div>
-                    &nbsp;&nbsp; &nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
                     <asp:DropDownList ID="DropDownListcountry" runat="server" Width="184px">
                         <asp:ListItem>Select University</asp:ListItem>
                         <asp:ListItem>Buet</asp:ListItem>

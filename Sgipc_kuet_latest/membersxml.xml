@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Catalog>
+  <Members>
+    <Designation>Moderator</Designation> 
+    <Name>Md.Abdul Awal</Name>
+    <Department>Assistant Professor,CSE</Department> 
+    <Roll>-</Roll>
+    <Batch>-</Batch>
+  </Members>
+  <Members>
+    <Designation>Moderator</Designation>
+    <Name>Md.ShamimurRahman</Name>
+    <Department>Lecturer,CSE</Department>
+    <Roll>-</Roll>
+    <Batch>-</Batch>
+  </Members>
+  <Members>
+    <Designation>President</Designation>
+    <Name>Md.ShafiqNewajShovo</Name>
+    <Department>CSE</Department>
+    <Roll>1407048</Roll>
+    <Batch>2K14</Batch>
+  </Members>
+  <Members>
+    <Designation>Vice-president</Designation>
+    <Name>TusharChondroMondol</Name>
+    <Department>CSE</Department>
+    <Roll>1407002</Roll>
+    <Batch>2K14</Batch>
+  </Members>
+  <Members>
+    <Designation>Vice-president</Designation>
+    <Name>TanvirWahid</Name>
+    <Department>CSE</Department>
+    <Roll>1407026</Roll>
+    <Batch>2K14</Batch>
+  </Members>
+  <Members>
+    <Designation>GeneralSecretary</Designation>
+    <Name>TawhidJoarder</Name>
+    <Department>CSE</Department>
+    <Roll>1407004</Roll>
+    <Batch>2K14</Batch>
+  </Members>
+  <Members>
+    <Designation>Assistant General Secretary</Designation>
+    <Name>Md.RezaulKarimSazid</Name>
+    <Department>CSE</Department>
+    <Roll>1407055</Roll>
+    <Batch>2K14</Batch>
+  </Members>
+  <Members>
+    <Designation>Assistant General Secretary</Designation>
+    <Name>ZabirAlNaziNabi</Name>
+    <Department>ECE</Department>
+    <Roll>1409016</Roll>
+    <Batch>2k14</Batch>
+  </Members>
+  <Members>
+    <Designation>Assistant General Secretary</Designation>
+    <Name>ArpanBhowmik</Name>
+    <Department>CSE</Department>
+    <Roll>1407029</Roll>
+    <Batch>2K14</Batch>
+  </Members>
+  <Members>
+    <Designation>Treasurer</Designation>
+    <Name>MustakimBillah</Name>
+    <Department>CSE</Department>
+    <Roll>1407035</Roll>
+    <Batch>2K14</Batch>
+  </Members>
+  <Members>
+    <Designation>Assistant Treasurer</Designation>
+    <Name>AbidHasanAbir</Name>
+    <Department>CSE</Department>
+    <Roll>1507075</Roll>
+    <Batch>2K15</Batch>
+  </Members>
+  <Members>
+    <Designation>Organizing Secretary</Designation>
+    <Name>ShaidulMursalinYead</Name>
+    <Department>CSE</Department>
+    <Roll>1507025</Roll>
+    <Batch>2K15</Batch>
+  </Members>
+  <Members>
+    <Designation>Organizing Secretary</Designation>
+    <Name>RifatHaiderChowdhury</Name>
+    <Department>CSE</Department>
+    <Roll>1507072</Roll>
+    <Batch>2K15</Batch>
+  </Members>
+  <Members>
+    <Designation>Organizing Secretary</Designation>
+    <Name>RezaulHoqueSagar</Name>
+    <Department>CSE</Department>
+    <Roll>1507041</Roll>
+    <Batch>2K15</Batch>
+  </Members>
+  <Members>
+    <Designation>Assistant Organizing Secretary</Designation>
+    <Name>IftekharToufiqueImam (Nuhash)</Name>
+    <Department>CSE</Department>
+    <Roll>1607040</Roll>
+    <Batch>2K16</Batch>
+  </Members>
+  <Members>
+    <Designation>Assistant Organizing Secretary</Designation>
+    <Name>JalalUddinJisan</Name>
+    <Department>CSE</Department>
+    <Roll>1607084</Roll>
+    <Batch>2K16</Batch>
+  </Members>
+  <Members>
+    <Designation>Senior Mentorfor Girls</Designation>
+    <Name>NishatNaylaLabiba</Name>
+    <Department>CSE</Department>
+    <Roll>1507045</Roll>
+    <Batch>2K15</Batch>
+  </Members>
+  <Members>
+    <Designation>Senior Mentorfor Girls</Designation>
+    <Name>JuyanaIslamJasse</Name>
+    <Department>CSE</Department>
+    <Roll>1507054</Roll>
+    <Batch>2K15</Batch>
+  </Members>
+  <Members>
+    <Designation>Senior Mentorfor Girls</Designation>
+    <Name>SadiaJahanBorna</Name>
+    <Department>CSE</Department>
+    <Roll>1507046</Roll>
+    <Batch>2K15</Batch>
+  </Members>
+  <Members>
+    <Designation>Senior Mentorfor Girls</Designation>
+    <Name>TuliRaniDas</Name>
+    <Department>CSE</Department>
+    <Roll>1507064</Roll>
+    <Batch>2K15</Batch>
+  </Members>
+  <Members>
+    <Designation>Junior Mentorfor Girls</Designation>
+    <Name>KhadizaSarwarMoury</Name>
+    <Department>CSE</Department>
+    <Roll>1607010</Roll>
+    <Batch>2K16</Batch>
+  </Members>
+  <Members>
+    <Designation>Junior Mentorfor Girls</Designation>
+    <Name>NoushinGouhar</Name>
+    <Department>CSE</Department>
+    <Roll>1607063</Roll>
+    <Batch>2K16</Batch>
+  </Members>
+  <Members>
+    <Designation>Junior Mentorfor Girls</Designation>
+    <Name>ZaimaZarnaz</Name>
+    <Department>CSE</Department>
+    <Roll>1607090</Roll>
+    <Batch>2K16</Batch>
+  </Members>
+  <Members>
+    <Designation>Junior Mentorfor Girls</Designation>
+    <Name>NowshinTasnim</Name>
+    <Department>CSE</Department>
+    <Roll>1607053</Roll>
+    <Batch>2K16</Batch>
+  </Members>
+  <Members>
+    <Designation>ContestManager</Designation>
+    <Name>RedwanulSourav</Name>
+    <Department>CSE</Department>
+    <Roll>1507005</Roll>
+    <Batch>2K15</Batch>
+  </Members>
+  <Members>
+    <Designation>Assistant Contest Manager</Designation>
+    <Name>SauravChakraborty</Name>
+    <Department>CSE</Department>
+    <Roll>1607014</Roll>
+    <Batch>2K16</Batch>
+  </Members>
+  <Members>
+    <Designation>Assistant Contest Manager</Designation>
+    <Name>PiasRoy</Name>
+    <Department>CSE</Department>
+    <Roll>1607071</Roll>
+    <Batch>2K16</Batch>
+  </Members>
+  <Members>
+    <Designation>Assistant Contest Manager</Designation>
+    <Name>Md.MuhiminulIslam(Osim)</Name>
+    <Department>CSE</Department>
+    <Roll>1607087</Roll>
+    <Batch>2K16</Batch>
+  </Members>
+  <Members>
+    <Designation>WorkshopManager</Designation>
+    <Name>MohaiminRafi</Name>
+    <Department>CSE</Department>
+    <Roll>1507004</Roll>
+    <Batch>2K15</Batch>
+  </Members>
+  <Members>
+    <Designation>Assistant Workshop Manager</Designation>
+    <Name>AbdullahAlNoman</Name>
+    <Department>CSE</Department>
+    <Roll>1607031</Roll>
+    <Batch>2K16</Batch>
+  </Members>
+  <Members>
+    <Designation>Assistant Workshop Manager</Designation>
+    <Name>RudraDas</Name>
+    <Department>CSE</Department>
+    <Roll>1607070</Roll>
+    <Batch>2K16</Batch>
+  </Members>
+  <Members>
+    <Designation>Assistant Workshop Manager</Designation>
+    <Name>QuaziRakibulIslam</Name>
+    <Department>CSE</Department>
+    <Roll>1607001</Roll>
+    <Batch>2K16</Batch>
+  </Members>
+  <Members>
+    <Designation>Campaign Editor</Designation>
+    <Name>Md.PeyalMolla</Name>
+    <Department>CSE</Department>
+    <Roll>1507043</Roll>
+    <Batch>2K15</Batch>
+  </Members>
+  <Members>
+    <Designation>Campaign Editor</Designation>
+    <Name>AmlanSarkar</Name>
+    <Department>CSE</Department>
+    <Roll>1507086</Roll>
+    <Batch>2K15</Batch>
+  </Members>
+  <Members>
+    <Designation>Campaign Editor</Designation>
+    <Name>MohaimenHasan</Name>
+    <Department>CSE</Department>
+    <Roll>1507040</Roll>
+    <Batch>2K15</Batch>
+  </Members>
+  <Members>
+    <Designation>Campaign Editor</Designation>
+    <Name>AnkonGhosh</Name>
+    <Department>ECE</Department>
+    <Roll>1609013</Roll>
+    <Batch>2K16</Batch>
+  </Members>
+
+                  
+</Catalog>

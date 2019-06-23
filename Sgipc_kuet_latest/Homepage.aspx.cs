@@ -54,5 +54,21 @@ namespace Sgipc_kuet_latest
         {
             Response.Redirect("contact.aspx");
         }
+
+        protected void Button8_Click1(object sender, EventArgs e)
+        {
+            Response.Redirect("extra.aspx");
+        }
+
+
+        protected void Button9_Click1(object sender, EventArgs e)
+        {
+            Response.Redirect("regis.aspx");
+        }
+
+        protected void Button81_Click1(object sender, EventArgs e)
+        {
+            Response.Redirect("members.aspx");
+        }
     }
 }
